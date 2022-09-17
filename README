@@ -1,6 +1,6 @@
 # IIG-test
 
--Data table create sql 
+-Data table create SQL 
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT ,
